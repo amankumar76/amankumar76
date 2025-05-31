@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar76&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar76" /> </p>
 
-- 🌱 I’m currently learning **Python, Power BI,Machine Learning for Data Analyst**
+- 🌱 I’m currently learning **Python, Power BI, Machine Learning for Data Analyst**
 
 - 📫 How to reach me **aman7654kr@gmail.com**
 
